@@ -1,2 +1,2 @@
 # binder-ipc
-My first project for test android ipc
+My first project for android ipc
